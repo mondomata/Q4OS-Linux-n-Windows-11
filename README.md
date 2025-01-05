@@ -11,4 +11,5 @@ Lightweight, and elegant.
 If you think, uninstall naturale.
 Net, stream, work, game, etc... q4os rock stable, beauty, and for windows-users to lite.
 Help: https://www.q4os.org/dqa014.html#instl | download setup exe: https://www.q4os.org/dnt07.html
- 
+or direct download:
+https://q4os.sourceforge.io/download/q4os-winsetup-5.7-r1.zip
