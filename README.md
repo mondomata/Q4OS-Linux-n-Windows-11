@@ -1,11 +1,11 @@
 # Q4OS-Linux-n-Windows-11
 How
 1. Go to q4os.org and download q4oswinsetup.zip.
-2. Extract, and install "q4os-winsetup.exe
+2. Extract, and install "q4os-winsetup.exe (in alert Windows popup click More info, and Run anyway...)
 3. Enjoy.😀
    
 Why?
-Q4OS is based on debian12 linux distro.
+Q4OS is based on Debian12 linux distro.
 The setup exe run to windows app, and do not mode windows bootable partition.
 But it is run dual booting with Windows os.
 Lightweight, and elegant.
