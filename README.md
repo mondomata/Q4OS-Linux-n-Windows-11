@@ -1,7 +1,7 @@
 # Q4OS-Linux-n-Windows-11
 How
 1. Go to q4os.org and download q4oswinsetup.zip.
-2. Extract, and install "q4os-winsetup.exe (in alert Windows popup click More info, and Run anyway...)
+2. Extract, and click to install "q4os-winsetup.exe" (in alert Windows popup click More info, and Run anyway...)
 3. Enjoy.😀
    
 Why?
