@@ -24,6 +24,7 @@ download setup exe /letöltés: https://www.q4os.org/dnt07.html
 or direct download /direkt letöltés: https://q4os.sourceforge.io/download/q4os-winsetup-5.7-r1.zip
 
 ![image](https://github.com/user-attachments/assets/4234761b-045f-44de-ae3e-c13969a1d52b)
+
 HU: Az install/telepítő ablakban (lásd lent) a language/nyelv beállításnál tallózd ki a magyart, ha szeretnéd, mást nem feltételnül kell megváltoztatnod, de username-nek beírhatod a saját neved ékeetmentesen, jelszónak pedig a biztonság kedvéért pl. azt, hogy q4os. A Q4OS automatikusan magyar nyelven fog így működni.
 ![image](https://github.com/user-attachments/assets/50158fee-05d6-44b7-b7b7-965593be03ea)
 
