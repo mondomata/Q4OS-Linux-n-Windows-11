@@ -14,3 +14,6 @@ Net, stream, work, game, etc...Q4OS rock stable, in beauty features, and lite to
 Help: https://www.q4os.org/dqa014.html#instl 
 download setup exe: https://www.q4os.org/dnt07.html
 or direct download: https://q4os.sourceforge.io/download/q4os-winsetup-5.7-r1.zip
+![image](https://github.com/user-attachments/assets/4234761b-045f-44de-ae3e-c13969a1d52b)
+![image](https://github.com/user-attachments/assets/50158fee-05d6-44b7-b7b7-965593be03ea)
+
