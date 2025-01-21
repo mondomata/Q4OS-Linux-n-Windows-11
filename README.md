@@ -25,7 +25,7 @@ or direct download /direkt letöltés: https://q4os.sourceforge.io/download/q4os
 
 ![image](https://github.com/user-attachments/assets/4234761b-045f-44de-ae3e-c13969a1d52b)
 
-HU: Az install/telepítő ablakban (lásd lent) a language/nyelv beállításnál tallózd ki a magyart, ha szeretnéd, mást nem feltételnül kell megváltoztatnod, de username-nek beírhatod a saját neved ékezetmentesen, jelszónak pedig a biztonság kedvéért pl. azt, hogy q4os. A Q4OS automatikusan magyar nyelven fog így működni.(Fontos: ha a telepítés nem megy magyarra állítva, a rendszer első indításakor kiválasztható azonnal a magyar, mint rendszer nyelv!
+HU: Az install/telepítő ablakban (lásd lent) a language/nyelv beállításnál tallózd ki a magyart, ha szeretnéd, mást nem feltételnül kell megváltoztatnod, de username-nek beírhatod a saját neved ékezetmentesen, jelszónak pedig a biztonság kedvéért pl. azt, hogy q4os. A Q4OS automatikusan magyar nyelven fog így működni.(A Q4OS rendszer első indításakor is kiválasztható azonnal a magyar, mint rendszer nyelv.)
 
 ![image](https://github.com/user-attachments/assets/50158fee-05d6-44b7-b7b7-965593be03ea)
 
