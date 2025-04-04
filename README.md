@@ -1,6 +1,6 @@
 # Q4OS-Linux-n-Windows-11
 How / Hogyan? (HU)
-1. Go to q4os.org and download q4oswinsetup.zip. / A q4os.org címről, vagy itt, a githibról töltsd le a q4oswinsetup zip-et. https://q4os.org/dnt07.html
+1. Go to q4os.org, or up on list and download q4oswinsetup.zip. / A q4os.org címről, vagy itt fent, a fajlok közül töltsd le a q4oswinsetup zip-et. https://q4os.org/dnt07.html
 2. Extract, and click to install "q4os-winsetup.exe" (in alert Windows popup click More info, and Run anyway...) /Bontsd ki, és klikkelj a telepítéshez a q4os-winsetup.exe -re (a felugró ablakban klikkelj a "További információ", majd a "Mégis telepítem" szövegekre)
 3. Enjoy.😀 
    
