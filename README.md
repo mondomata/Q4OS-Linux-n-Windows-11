@@ -5,7 +5,7 @@ How / Hogyan? (HU)
 3. Enjoy.😀 
    
 Why?
-Q4OS is based on Debian12 linux distro. / A Q4OS (5.7) egy Debian12 alapú linux disztró.
+Q4OS is based on Debian12 linux distro. / A Q4OS (5.8 Aquarius) egy Debian12 alapú linux disztró.
 
 The setup exe run to windows app, and do not mode windows bootable partition. / A setup exe olyan, mint egy windows program, nem változtatja meg a windows boot partíciót.
 
