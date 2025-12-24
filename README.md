@@ -25,7 +25,7 @@ or direct download /direkt letöltés: https://q4os.sourceforge.io/download/q4os
 
 A Windows fájlkezelő általában automatikusan kibontja a zip fájlt rá kattintás után, és az "application" (azaz alkalmazás, vagy program) rá klikkelve máris elindítható (lásd 1. képen):
 
-![{6E9FFD7E-B486-4193-B945-01C65762A9E8}](https://github.com/user-attachments/assets/51d1466f-fa41-457a-b2f6-d6deee96ed49)
+<img width="454" height="174" alt="q4oswinexe" src="https://github.com/user-attachments/assets/6861c056-6283-4fcb-bbd7-2095e6921727" />
 
 HU: Az install/telepítő ablakban (lásd 2. képen) a language/nyelv beállításnál tallózd ki a magyart, ha szeretnéd, mást nem feltételnül kell megváltoztatnod, de username-nek beírhatod a saját neved ékezetmentesen, jelszónak pedig a biztonság kedvéért pl. azt, hogy q4os. A Q4OS automatikusan magyar nyelven fog így működni.(A Q4OS rendszer első indításakor is kiválasztható azonnal a magyar, mint rendszer nyelv.)
 
