@@ -32,7 +32,11 @@ HU: Az install/telepítő ablakban (lásd 2. képen) a language/nyelv beállít�
 
 ![q4os](https://github.com/user-attachments/assets/6bb1dab3-bdc8-4076-8cd5-557a22e8c164)
 
-
+## Q4OS előnyök 
+- apró beállításokkal Windowshoz hasonlóvá varázsolható a felülete, így a Windowsról áttérők is könnyen és azonnal eligazodnak rajta;
+- a többi linuxhoz hasonlóan tárolóból (Szoftver centerből) tölthetők le programok (tízezerszám), nem kell a neten keresgélni;
+- minden (is!) ingyenes, és biztonságos, előtérben a személyes adatok védelmével - a q4 semmit nem oszt meg a neten, ha nem akarod...;
+- szinte végtelen a testreszabhatósága.
 
 
 
