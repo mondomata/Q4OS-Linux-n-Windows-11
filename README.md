@@ -21,7 +21,7 @@ Help /további segítség (angol): https://www.q4os.org/dqa014.html#instl
 
 download setup exe /letöltés: https://www.q4os.org/dnt07.html
 
-or direct download /direkt letöltés: https://www.q4os.org/redirect07.html
+or direct download /direkt letöltés: https://q4os.sourceforge.io/download/q4os-winsetup-5.8-r1.zip 
 
 A Windows fájlkezelő általában automatikusan kibontja a zip fájlt rá kattintás után, és az "application" (azaz alkalmazás, vagy program) rá klikkelve máris elindítható (lásd 1. képen):
 
