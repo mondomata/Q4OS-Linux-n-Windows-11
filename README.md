@@ -17,11 +17,11 @@ If you are think, uninstall nature, or if you are think is good, maybe install t
 
 Net, stream, work, game, etc...Q4OS rock stable, in beauty features, and lite to windows-users. /Netezés, stream, munka, játék, stb... a Q4OS szikla stabil, gyönyörő felületű, könnyen használható a windows felhasználóknak.
 
-Help /további segítség (angol): https://www.q4os.org/dqa014.html#instl 
+Help install (eng) / további telepítési segítség (angol): https://www.q4os.org/dqa014.html#instl 
 
-download setup exe /letöltés: https://www.q4os.org/dnt07.html
+download setup exe / letöltés: https://www.q4os.org/dnt07.html
 
-or direct download /direkt letöltés: https://q4os.sourceforge.io/download/q4os-winsetup-5.8-r1.zip 
+or direct download / direkt letöltés: https://q4os.sourceforge.io/download/q4os-winsetup-5.8-r1.zip 
 
 A Windows fájlkezelő általában automatikusan kibontja a zip fájlt rá kattintás után, és az "application" (azaz alkalmazás, vagy program) rá klikkelve máris elindítható (lásd 1. képen):
 
