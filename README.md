@@ -29,7 +29,8 @@ A Windows fájlkezelő általában automatikusan kibontja a zip fájlt rá katti
 
 HU: Az install/telepítő ablakban (lásd 2. képen) a language/nyelv beállításnál tallózd ki a magyart, ha szeretnéd, mást nem feltételnül kell megváltoztatnod, de username-nek beírhatod a saját neved ékezetmentesen, jelszónak pedig a biztonság kedvéért pl. azt, hogy q4os. A Q4OS automatikusan magyar nyelven fog így működni.(A Q4OS rendszer első indításakor is kiválasztható azonnal a magyar, mint rendszer nyelv.)
 
-![q4os](https://github.com/user-attachments/assets/0a6ec823-17ee-4c22-b4e9-1de05bfc731b)
+![q4os](https://github.com/user-attachments/assets/6bb1dab3-bdc8-4076-8cd5-557a22e8c164)
+
 
 
 
