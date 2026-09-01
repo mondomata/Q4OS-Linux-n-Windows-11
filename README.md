@@ -2,11 +2,11 @@
 
 ## How? / Hogyan? (HU)
 1. Go to q4os.org, or up on list and download q4os-winsetup.zip. / A q4os.org címről, vagy itt fent, a fájlok közül töltsd le a <tt>q4os-winsetup zip</tt>-et
-2. Extract, and click to install "q4os-winsetup.exe" (in alert popup click More info, and Run anyway...) / Bontsd ki, és klikkelj a telepítéshez a q4os-winsetup.exe -re (a figyelmeztető ablakban klikkelj a "További információ", majd a "Mégis telepítem" szövegekre)
+2. Extract, and click to install "q4os-winsetup.exe" (újabb verzió/newest version: https://drive.google.com/drive/folders/14GlixcnZ4KRAZRYDVXJUDN5bchQbRqoS?usp=sharing . On alert popup click More info, and Run anyway...) / Bontsd ki, és klikkelj a telepítéshez a q4os-winsetup.exe -re (a figyelmeztető ablakban klikkelj a "További információ", majd a "Mégis telepítem" szövegekre)
 3. Enjoy. / Élvezd. 😀 
    
 ## Why? / Miért?
-Q4OS is based on Debian12 linux distro. / A Q4OS (5.8 Aquarius) egy Debian12 alapú linux disztró.
+Q4OS is based on Debian12 linux distro. Newest version on Debian13 linux... / A Q4OS (5.8 Aquarius) egy Debian12 alapú linux disztró, az újabb verzió Debian13.
 
 The setup exe run to windows app, and do not mode windows bootable partition. / A setup exe olyan, mint egy windows program, nem változtatja meg a windows boot partíciót.
 
