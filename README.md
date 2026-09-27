@@ -1,4 +1,4 @@
-# Q4OS Linux and Windows 11 (or 10)
+# Q4OS Linux and Windows 11<sup>(or 10)</sup>
 
 ## ❓❓❓ How? (eng) / Hogyan? (magyar)
 This installer doesn't change the Windows on your computer in any way, it just allows you to choose between Q4OS Linux or the usual Windows system when you turn on the computer, so you can use them side by side. / 
