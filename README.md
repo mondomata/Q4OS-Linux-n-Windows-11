@@ -1,16 +1,15 @@
 # Q4OS-Linux-n-Windows-11
 
 ## How? (eng) / Hogyan? (magyar)
-1. Go to q4os.org/download, or up on list and download q4os-winsetup.zip. / A q4os.org/download címről, vagy itt fent, a fájlok közül töltsd le a <tt>q4os-winsetup zip</tt>-et. Newest version download this/legújabb verzió innen is letölthető: <a href="https://drive.google.com/file/d/12xhJmwI7y3lKu4JWEj3Ktc67eONZZmQ9/view?usp=drivesdk">Download/Drive</a>
-2. Extract, and click to install "q4os-winsetup.exe" / Bontsd ki, és klikkelj a telepítéshez a q4os-winsetup.exe -re (a figyelmeztető ablakban klikkelj a "További információ", majd a "Mégis telepítem" szövegekre)
+This installer doesn't change the Windows on your computer in any way, it just allows you to choose between Q4OS Linux or the usual Windows system when you turn on the computer, so you can use them side by side. / 
+Ez a telepítő semmiben sem változtatja meg a gépeden lévő Windowst, csupán lehetővé teszi, hogy a gép bekapcsolásakor válassz a Q4OS Linux, vagy a megszokott Windows rendszer közül, ezzel egymás mellett tudod használni ezeket.
+
+1. Go to https://q4os.org/downloads1.html, or up on list and download q4os-winsetup.zip. / A https://q4os.org/downloads1.html címről, vagy itt fent, a fájlok közül töltsd le a <tt>q4os-winsetup zip</tt>-et. Newest version download this/A **legújabb verzió innen is letölthető**: <a href="https://drive.google.com/file/d/12xhJmwI7y3lKu4JWEj3Ktc67eONZZmQ9/view?usp=drivesdk">Download Q4OS-winsetup/Drive</a>
+2. Extract, and click to install "q4os-winsetup.exe" / Bontsd ki, és klikkelj a telepítéshez a q4os-winsetup.exe -re (a felugró *figyelmeztető ablak*ban klikkelj a "*További információ*", majd a "*Mégis telepítem*" szövegre)
 3. Enjoy. / Élvezd. 😀 
    
 ## Why? / Miért?
  Newest version on Debian13 linux... / A Q4OS újabb verzió egy Debian13 alapú linux disztró.
-
-The setup exe run to windows app, and do not mode windows bootable partition. / A setup exe úgy viselkedik, mint egy windows program, nem változtatja meg a windows boot partíciót.
-
-But it is run dual booting with Windows os. / De kettős indítás módjára indul a Windows-zal.
 
 Lightweight, and elegant, rock stable. / Könnyűsúlyú, és elegáns, szikla szilárdan stabil.
 
@@ -19,7 +18,7 @@ If you are think, uninstall nature, or if you are think is good, maybe install t
 Net, stream, work, game, etc...Q4OS rock stable, in beauty features, and lite to windows-users. /Netezés, stream, munka, játék, stb... a Q4OS szikla stabil, gyönyörő felületű, könnyen használható a windows felhasználóknak.
 
 
-A Windows fájlkezelő általában automatikusan kibontja a zip fájlt rákattintás után, és az "application" (azaz alkalmazás, vagy program) rá klikkelve máris elindítható (lásd 1. képen):
+A Windows fájlkezelő általában automatikusan kibontja a zip fájlt rákattintás után, és az "application" (azaz alkalmazás, vagy program) ráklikkelve máris elindítható (lásd 1. képen):
 
 <img width="454" height="174" alt="q4oswinexe" src="https://github.com/user-attachments/assets/6861c056-6283-4fcb-bbd7-2095e6921727" />
 
