@@ -22,11 +22,11 @@ If you are think, uninstall nature, or if you are think is good, maybe install t
 Net, stream, work, game, etc...Q4OS rock stable, in beauty features, and lite to windows-users. /Netezés, stream, munka, játék, stb... a Q4OS szikla stabil, gyönyörő felületű, könnyen használható a windows felhasználóknak.
 
 
-A Windows fájlkezelő általában automatikusan kibontja a zip fájlt rákattintás után, és az "application" (azaz alkalmazás, vagy program) ráklikkelve máris elindítható (lásd 1. képen):
+A Windows fájlkezelő általában automatikusan kibontja a zip fájlt rákattintás után, és az "application" (azaz alkalmazás, vagy program) ráklikkelve máris elindítható (1. képen):
 
 <img width="400" height="120" alt="q4oswinexe" src="https://github.com/user-attachments/assets/6861c056-6283-4fcb-bbd7-2095e6921727" />
 
-HU: Az install/telepítő ablakban (lásd 2. képen) a language/nyelv beállításnál tallózd ki a magyart, ha szeretnéd, mást nem feltételnül kell megváltoztatnod, de username-nek beírhatod a saját neved ékezetmentesen, jelszónak pedig a biztonság kedvéért pl. azt, hogy q4os. A Q4OS automatikusan magyar nyelven fog így működni.(A Q4OS rendszer első indításakor is kiválasztható azonnal a magyar, mint rendszer nyelv.)
+HU: Az install/telepítő ablakban (2. képen) a language/nyelv beállításnál tallózd ki a magyart, ha szeretnéd, mást nem feltételnül kell megváltoztatnod, de username-nek beírhatod a saját neved ékezetmentesen, jelszónak pedig a biztonság kedvéért pl. azt, hogy q4os. A Q4OS automatikusan magyar nyelven fog így működni.(A Q4OS rendszer első indításakor is kiválasztható azonnal a magyar, mint rendszer nyelv.)
 
 ![q4os](https://github.com/user-attachments/assets/6bb1dab3-bdc8-4076-8cd5-557a22e8c164)
 
