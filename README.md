@@ -24,7 +24,7 @@ Net, stream, work, game, etc...Q4OS rock stable, in beauty features, and lite to
 
 A Windows fájlkezelő általában automatikusan kibontja a zip fájlt rákattintás után, és az "application" (azaz alkalmazás, vagy program) ráklikkelve máris elindítható (lásd 1. képen):
 
-<img width="400" height="100" alt="q4oswinexe" src="https://github.com/user-attachments/assets/6861c056-6283-4fcb-bbd7-2095e6921727" />
+<img width="400" height="1200" alt="q4oswinexe" src="https://github.com/user-attachments/assets/6861c056-6283-4fcb-bbd7-2095e6921727" />
 
 HU: Az install/telepítő ablakban (lásd 2. képen) a language/nyelv beállításnál tallózd ki a magyart, ha szeretnéd, mást nem feltételnül kell megváltoztatnod, de username-nek beírhatod a saját neved ékezetmentesen, jelszónak pedig a biztonság kedvéért pl. azt, hogy q4os. A Q4OS automatikusan magyar nyelven fog így működni.(A Q4OS rendszer első indításakor is kiválasztható azonnal a magyar, mint rendszer nyelv.)
 
