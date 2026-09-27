@@ -1,8 +1,11 @@
-# Q4OS-Linux-n-Windows-11
+# Q4OS Linux and Windows 11 (or 10)
 
 ## How? (eng) / Hogyan? (magyar)
 This installer doesn't change the Windows on your computer in any way, it just allows you to choose between Q4OS Linux or the usual Windows system when you turn on the computer, so you can use them side by side. / 
-Ez a telepítő semmiben sem változtatja meg a gépeden lévő Windowst, csupán lehetővé teszi, hogy a gép bekapcsolásakor válassz a Q4OS Linux, vagy a megszokott Windows rendszer közül, ezzel egymás mellett tudod használni ezeket.
+
+🥇🥇🥇
+
+Ez a telepítő semmiben sem változtatja meg a gépeden lévő Windowst (akár 10, akár 11), csupán lehetővé teszi, hogy a gép bekapcsolásakor válassz a Q4OS Linux, vagy a megszokott Windows rendszer közül, ezzel egymás mellett tudod használni ezeket.
 
 1. Go to website or up on list and download q4os-winsetup.zip. / A https://q4os.org/downloads1.html címről, vagy itt fent, a fájlok közül töltsd le a <tt>q4os-winsetup zip</tt>-et.
 2. **Newest version download:** / A **legújabb verzió innen is letölthető**: <a href="https://drive.google.com/file/d/12xhJmwI7y3lKu4JWEj3Ktc67eONZZmQ9/view?usp=drivesdk">Download Q4OS-winsetup/Drive</a>
