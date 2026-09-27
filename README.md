@@ -1,6 +1,6 @@
 # Q4OS Linux and Windows 11<sup>(or 10)</sup>
 
-## ❓❓❓ How? (eng) / Hogyan? (magyar)
+## ❓❓❓ How (eng) / Hogyan (magyar)
 This installer doesn't change the Windows on your computer in any way, it just allows you to choose between Q4OS Linux or the usual Windows system when you turn on the computer, so you can use them side by side. / 
 
 🥇🥇🥇
@@ -12,7 +12,7 @@ Ez a telepítő semmiben sem változtatja meg a gépeden lévő Windowst (akár 
 2. Extract, and click to install "q4os-winsetup.exe" / Bontsd ki, és klikkelj a telepítéshez a q4os-winsetup.exe -re (a felugró *figyelmeztető ablak*ban klikkelj a "*További információ*", majd a "*Mégis telepítem*" szövegre)
 3. Enjoy. / Élvezd. 😀 
    
-## ❓❓❓ Why? / Miért?
+## ❓❓❓ Why / Miért
  Newest version on Debian13 linux... / A Q4OS újabb verzió egy Debian13 alapú linux disztró.
 
 Lightweight, and elegant, rock stable. / Könnyűsúlyú, és elegáns, szikla szilárdan stabil. **Nagy valószínűséggel elég gyorsan működik ahhoz egy 15-20 éves PC-n is, hogy ne dobd ki!**
