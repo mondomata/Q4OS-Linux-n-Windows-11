@@ -15,7 +15,7 @@ Ez a telepítő semmiben sem változtatja meg a gépeden lévő Windowst (akár 
 ## ❓❓❓ Why / Miért
  Newest version on Debian13 linux... / A Q4OS újabb verzió egy Debian13 alapú linux disztró.
 
-Lightweight, and elegant, rock stable. / Könnyűsúlyú, és elegáns, szikla szilárdan stabil. **Nagy valószínűséggel elég gyorsan működik ahhoz egy 15-20 éves PC-n is, hogy ne dobd ki!**
+Lightweight, and elegant, rock stable maybe working on 15-20 years old PC / Könnyűsúlyú, és elegáns, szikla szilárdan stabil. **Nagy valószínűséggel elég gyorsan működik ahhoz egy 15-20 éves PC-n is, hogy ne dobd ki!**
 
 If you are think, uninstall nature, or if you are think is good, maybe install to first op.system. / Ha gondolod, egyszerűen "uninstallálod", ha tetszik, talán első op.rendszerként telepíted.
 
