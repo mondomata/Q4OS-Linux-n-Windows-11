@@ -10,7 +10,7 @@ Ez a telepítő semmiben sem változtatja meg a gépeden lévő Windowst (akár 
 1. **Newest version download recommended:** / A **legújabb ajánlott verzió innen is letölthető**: <a href="https://drive.google.com/file/d/12xhJmwI7y3lKu4JWEj3Ktc67eONZZmQ9/view?usp=drivesdk">Download Q4OS-winsetup/Drive</a>
 **OR** Go to website or up on list and download zip. / **VAGY** A https://q4os.org/downloads1.html címről (*Installer for Windows* bekezdést keresd ott), ill. itt fent, a fájlok közül töltsd le a <tt>q4os-winsetup zip</tt>-et.
    
-2. Extract, and click to install "q4os-winsetup.exe" / Bontsd ki, és klikkelj a telepítéshez a q4os-winsetup.exe -re (a felugró *figyelmeztető ablak*ban klikkelj a "*További információ*", majd a "*Mégis telepítem*" szövegre)
+2. Extract, and click to install "q4os-winsetup.exe" / Bontsd ki, és klikkelj a telepítéshez a **q4os-winsetup.exe** -re (a felugró *figyelmeztető ablak*ban klikkelj a "*További információ*", majd a "*Mégis telepítem*" szövegre)
 
 3. Enjoy. / Élvezd. 😀 
    
